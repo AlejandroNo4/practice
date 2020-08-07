@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+#id-image {
+  padding: 0;
+  max-width: 700;
+  min-width: 350;
+  position: relative;
+  top: 50px;
+  left: auto;
+  right: auto;
+}
